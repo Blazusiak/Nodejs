@@ -1,0 +1,26 @@
+{
+    "name": "nodejs",
+    "version": "1.0.0",
+    "description": "Learning basic Node.js",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index",
+        "dev": "nodemon index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Blazusiak/Nodejs.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Blazusiak/Nodejs/issues"
+    },
+    "homepage": "https://github.com/Blazusiak/Nodejs#readme",
+    "dependencies": {
+        "uuid": "^3.4.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
